@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5710e4bd-3239-4d02-bba8-5f2443334276" name="zzz" url="http://www.zzz.com.ua">
+        <fileTransfer host="www.zzz.com.ua" port="21" rootFolder="/anyaaralbaeva.zzz.com.ua">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
